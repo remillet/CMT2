@@ -29,7 +29,7 @@
 		9AAF8D1615492F410009F9EE /* CMT2 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = CMT2; sourceTree = BUILT_PRODUCTS_DIR; };
 		9AAF8D1A15492F410009F9EE /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		9AAF8D1D15492F410009F9EE /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		9AAF8D2015492F410009F9EE /* CMT2-Prefix.pch */ = {isa = PBXFileReference; path = "CMT2-Prefix.pch"; sourceTree = "<group>"; };
+		9AAF8D2015492F410009F9EE /* CMT2-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "CMT2-Prefix.pch"; sourceTree = "<group>"; };
 		9AAF8D2115492F410009F9EE /* CMT2.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = CMT2.1; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
